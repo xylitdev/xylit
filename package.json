@@ -1,0 +1,23 @@
+{
+  "name": "xylit",
+  "version": "0.1.0",
+  "description": "A unified package for @xylit based packages",
+  "main": "index.js",
+  "author": "René Kaesler <renekaesler@gmail.com> (https://renekaesler.com/)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xylitdev/xylit"
+  },
+  "keywords": [
+    "xylit",
+    "frontend",
+    "ui",
+    "js",
+    "css",
+    "webcomponents"
+  ],
+  "dependencies": {
+    "@xylit/ui": "^0.1.0"
+  }
+}
